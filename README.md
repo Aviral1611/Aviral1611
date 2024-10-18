@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Final year student at VIT Chennai.<br>👯 Aspiring Web developer and Data Scientist.<br>🤝 Interested in Python and Python based Tech stack.<br>🌱Currently researching about my new paper.<br>⚡ Eager to learn and grow.
+🔭 Final year student at VIT Chennai.<br>👯 Aspiring Web developer and Data Scientist.<br>🤝 Interested in Python and Python based Tech stack.<br>🌱Currently researching about my new paper on credit risk.<br>⚡ Eager to learn and grow.
 
 
 ## 🌐 Socials:
